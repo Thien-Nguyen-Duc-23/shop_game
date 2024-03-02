@@ -5,7 +5,7 @@
 **Clone repo**
 
 ```
-$ git clone git@gitlab.com:uthienth92/adminshopgame.git
+https://github.com/Thien-Nguyen-Duc-23/shop_game
 ```
 
 **Install component**
